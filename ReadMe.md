@@ -1,0 +1,1 @@
+Free to use lib for fivem servers standalone
