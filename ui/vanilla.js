@@ -15,3 +15,9 @@ function LoadingUpdate(percent) {
     $('#Fill').css("width", percent + "%");
 }
 LoadingUpdate(percent);
+
+
+
+const LoaderAnim = anime({
+    
+})
